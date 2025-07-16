@@ -53,7 +53,7 @@
 
 ###
 
-<h4 align="left">Say Hi Or Buy Me A Coffee â˜•</h4>
+<h4 align="left">Say Hi Or Buy Me A Coffee ☕</h4>
 
 ###
 
