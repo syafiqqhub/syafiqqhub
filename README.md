@@ -1,4 +1,4 @@
-<h1 align="left">Hi ðŸ‘‹! I'm Syafiq Rayyan.</h1>
+<h1 align="left">Hi 👋! I'm Syafiq Rayyan.</h1>
 
 ###
 
