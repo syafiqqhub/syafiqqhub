@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/syfiqqryyann" target="_blank">
+  <a href="https://instagram.com/syfiqqryyan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://paypal.me/syafiqq816" target="_blank">
