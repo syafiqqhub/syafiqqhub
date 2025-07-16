@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Syafiq Rayyan.</h1>
+<h1 align="left">Hi ðŸ‘‹! I'm Syafiq Rayyan.</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/syafiqqhub/syafiqqhub/output/snake.svg" alt="Snake animation" />
+<img src="./assets/snake.gif" alt="Snake game animation" width="400"/>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h4 align="left">Say Hi Or Buy Me A Coffee ☕</h4>
+<h4 align="left">Say Hi Or Buy Me A Coffee â˜•</h4>
 
 ###
 
